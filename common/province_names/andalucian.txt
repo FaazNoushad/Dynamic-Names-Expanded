@@ -43,10 +43,22 @@
 2988 = "Tarrakunah"
 2990 = "Tirwal"
 
+12 = "Kubinhagen" #Copenhagen
+33 = "Sanat Bitarsburg" #Neva
+97 = "Amstardam" #Amsterdam
+104 = "Milanu" #Milan
+131 = "Zagrib" #Zagreb
+151 = "Qustantinah" #Constantinople
 209 = "Biskay" #Vizcaya
+223 = "Gharnatah" #Granada
+4239 = "Bilgrad" #Belgrade
 4546 = "Malaqah" #Malaga
 4548 = "Awnaba" #Huelva
 4549 = "Shatiba" #Xativa
 4550 = "Qashtalla" #Castello
+4551 = "Abila" #Àvila
 4552 = "Balanthia" #Palencia
-4560 = "Yabissa" #Ibiza
+4560 = "Yebisah" #Ibiza
+1746 = "Burgus" #Burgos
+4559 = "Menurqah" #Minorca
+4560 = "Yebisah" #Ibiza
