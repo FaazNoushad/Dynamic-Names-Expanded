@@ -2,15 +2,31 @@
 #Chorti
  CHT: "Ch'orti'"
  CHT_ADJ: "Ch'orti'"
+ 
 #Kiche
  KIC: "K'iche'"
  KIC_ADJ: "K'iche'"
+
+#Korchin
+ KRC: "Khorchin"
+ KRC_ADJ: "Khorchin"
+ 
+#Madyas
+ MAS: "Madja-as"
+ MAS_ADJ: "Madja-asi"
+ 
 #Mikmaq
  MIK: "Mi'kmaq"
  MIK_ADJ: "Mi'kmaq"
+ 
+#Pangasinan
+ PGS: "Caboloan"
+ PGS_ADJ: "Caboloan"
+ 
 #Tarascan
  TAR: "Purepecha"
  TAR_ADJ: "Purepechan"
+ 
 #Xalisco
  XAL: "Xalixco"
  XAL_ADJ: "Xalixcan"
