@@ -1,4 +1,7 @@
-﻿1 = "Tukholma" #Stockholm
+28 = "Uusimaa"
+30 = "Viipuri" #Vyborg
+
+1 = "Tukholma" #Stockholm
 9 = "Helsinglanti" #Hälsingland
 10 = "Jämtlanti" #Jämtland
 11 = "Länsipohja" #Västerbotten
@@ -7,9 +10,7 @@
 20 = "Tööndelagen" #Trøndelag
 21 = "Helgeland #Hålogaland
 27 = "Turku" #Åbo
-28 = "Uusimaa" #Nyland
 29 = "Häme" #Tawastland
-30 = "Viipuri" #Vyborg
 31 = "Savo" #Savolax
 32 = "Käkisalmi" #Priozersk
 33 = "Pähkinälinna" #Neva
