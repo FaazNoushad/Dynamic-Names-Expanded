@@ -1,5 +1,6 @@
 28 = "Uusimaa"
-30 = "Viipuri" #Vyborg
+30 = "Viipuri"
+
 
 1 = "Tukholma" #Stockholm
 9 = "Helsinglanti" #Hälsingland
