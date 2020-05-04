@@ -119,6 +119,49 @@ colonial_canada = {
 				tag = FRA
 				culture_group = french
 			}
+			owns = 983
+		}
+		name = "COLONIAL_CANADA_Isle_Saint_Jean"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = FRA
+				culture_group = french
+			}
+			OR = {
+				owns = 980
+				owns = 981
+				owns = 2573
+			}	
+		}
+		name = "COLONIAL_CANADA_Terre_Neuve"
+	}
+	names = {
+		trigger = {
+			OR = {
+				tag = FRA
+				culture_group = french
+			}
+			owns = 982
+		}
+		name = "COLONIAL_CANADA_Ile_Royale"
+	}	
+	names = {
+		trigger = {
+			OR = {
+				tag = FRA
+				culture_group = french
+			}
+		}
+		name = "COLONIAL_CANADA_Root_Culture_GetGroupName_Canada"
+	}	
+	names = {
+		trigger = {
+			OR = {
+				tag = FRA
+				culture_group = french
+			}
 		}
 		name = "COLONIAL_CANADA_Acadia"
 	}
@@ -718,6 +761,15 @@ colonial_mexico = {
 	}
 	names = {
 		trigger = {
+			OR = {
+				tag = FRA
+				culture_group = french
+			}	
+		}
+		name = "COLONIAL_MEXICO_Mexique"
+	}	
+	names = {
+		trigger = {
 			tag = CAS
 		}
 		name = "COLONIAL_MEXICO_New_Castile"
@@ -843,6 +895,34 @@ colonial_the_carribean = {
 		}
 		name = "COLONIAL_THE_CARRIBEAN_Antilles"
 	}
+	names = {
+		trigger = {
+			culture_group = french
+			OR = {
+				owns = 488
+				owns = 489
+				owns = 4618
+				owns = 4619
+			}	
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Saint_Domingue"
+	}	
+	names = {
+		trigger = {
+			OR = {
+				culture = castillian
+				tag = SPA
+			}	
+			OR = {
+				owns = 490
+				owns = 2658
+				owns = 2659
+				owns = 4620
+				owns = 4621
+			}	
+		}
+		name = "COLONIAL_THE_CARRIBEAN_Santo_Domingo"
+	}		
 	names = {
 		trigger = {
 			OR = {
@@ -1165,6 +1245,35 @@ colonial_brazil = {
 		}
 		name = "COLONIAL_BRAZIL_Terra_de_Vera_Cruz"
 	}
+	names = {
+		trigger = {
+			tag = POR
+		}
+		name = "COLONIAL_BRAZIL_Root_Culture_GetName_Brazil"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = french
+				tag = FRA
+			}	
+			owns = 763
+		}
+		name = "COLONIAL_BRAZIL_France_Antarctique"
+	}
+	names = {
+		trigger = {
+			OR = {
+				culture_group = french
+				tag = FRA
+			}	
+			OR = {
+				owns = 749
+				owns = 2927
+			}	
+		}
+		name = "COLONIAL_BRAZIL_France_Equinoxiale"
+	}	
 	names = {
 		trigger = {
 			OR = {
