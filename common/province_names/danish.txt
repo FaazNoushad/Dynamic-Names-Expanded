@@ -4,7 +4,6 @@
 9 = "Hælsingleland"
 10 = "Jæmtland"
 11 = "Vesterboten"
-12 = "København"
 16 = "Bahuslehn"
 17 = "Aggershuus"
 19 = "Østerbotn"
