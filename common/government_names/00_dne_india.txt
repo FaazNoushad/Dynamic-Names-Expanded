@@ -275,3 +275,4 @@ calicut_titles = {
 		tag = MAB
 		religion = hinduism
 	}
+}	
