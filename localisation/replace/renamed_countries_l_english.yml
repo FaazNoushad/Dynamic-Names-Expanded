@@ -1,4 +1,12 @@
 ﻿l_english:
+#Assam
+ ASS: "Ahom"
+ ASS_ADJ: "Ahom"
+ 
+#Chernigov
+ CHR: "Chernihiv"
+ CHR_ADJ: "Chernihivan"
+ 
 #Chorti
  CHT: "Ch'orti'"
  CHT_ADJ: "Ch'orti'"
@@ -7,6 +15,10 @@
  KIC: "K'iche'"
  KIC_ADJ: "K'iche'"
 
+#Kiev
+ KIE: "Kyiv"
+ KIE_ADJ: "Kyivan"
+ 
 #Korchin
  KRC: "Khorchin"
  KRC_ADJ: "Khorchin"
@@ -26,6 +38,10 @@
 #Tarascan
  TAR: "Purepecha"
  TAR_ADJ: "Purepechan"
+ 
+#Tanjore
+ TNJ: "Thanjavur"
+ TNJ_ADJ: "Thanjavuri"
  
 #Xalisco
  XAL: "Xalixco"
