@@ -18,7 +18,7 @@
 2447 = "Tamatarha"
 
 356 = "Hesperides" #Benghazi
-359 = "ArsinoÃ«" #Fayyum
+359 = "Arsinoë" #Fayyum
 360 = "Maximianopolis" #Qus
 538 = "Korevora" #Karur
 1248 = "Maniolae" #Maldives

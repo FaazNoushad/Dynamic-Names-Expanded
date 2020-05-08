@@ -1,2 +1,2 @@
-159 = "Dobrud≈æa" #Dobruja
+159 = "Dobrudûa" #Dobruja
 1756 = "Besarabiya" #Bessarabia
