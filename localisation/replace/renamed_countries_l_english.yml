@@ -11,6 +11,14 @@
  CHT: "Ch'orti'"
  CHT_ADJ: "Ch'orti'"
  
+#Iroquois
+ IRO: "Haudenosaunee"
+ IRO_ADJ: "Haudenosaunee"
+
+#Kham
+ KAM: "Derge"
+ KAM_ADJ: "Derge"
+ 
 #Kiche
  KIC: "K'iche'"
  KIC_ADJ: "K'iche'"
@@ -31,6 +39,10 @@
  MIK: "Mi'kmaq"
  MIK_ADJ: "Mi'kmaq"
  
+#Makassar
+ MKS: "Gowa"
+ MKS_ADJ: "Gowan"
+ 
 #Pangasinan
  PGS: "Caboloan"
  PGS_ADJ: "Caboloan"
@@ -42,6 +54,14 @@
 #Tanjore
  TNJ: "Thanjavur"
  TNJ_ADJ: "Thanjavuri"
+
+#Tokugawa
+ TKG: "Matsudaira"
+ TKG_ADJ: "Matsudaira"
+ 
+#U
+ PHA: "Phagmodrupa"
+ PHA_ADJ: "Phagmodrupan"
  
 #Xalisco
  XAL: "Xalixco"

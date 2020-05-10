@@ -186,7 +186,6 @@ meitei_titles = {
 	
 	trigger = {
 		tag = MLB
-		religion = animism
 	}
 }
 
@@ -200,7 +199,7 @@ assam_titles = {
 	ruler_male = {
 		1 = PHA_TITLE
 		2 = SAOPHA
-		3 = SWARAGDEO
+		3 = SWARGADEO
 	}
 	
 	ruler_female = {
@@ -223,7 +222,6 @@ assam_titles = {
 	
 	trigger = {
 		tag = ASS
-		religion = hinduism
 	}
 }
 
@@ -248,7 +246,6 @@ sadiya_titles = {
 	
 	trigger = {
 		tag = SDY
-		religion = hinduism
 	}
 }
 
@@ -273,6 +270,5 @@ calicut_titles = {
 	
 	trigger = {
 		tag = MAB
-		religion = hinduism
 	}
 }	
