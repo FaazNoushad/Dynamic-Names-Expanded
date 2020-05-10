@@ -54,7 +54,7 @@
 200 = "Monspesullanus"
 201 = "Aquae Sextiae" #Aix-en-Provence, though Massilia may be more recognizable.
 203 = "Lugdunum"
-204 = "Delphinatus" #Delphinatus Viennensis in full, equivalent to fr Dauphiné Viennois
+204 = "Delphinatus" #Delphinatus Viennensis in full, equivalent to fr DauphinÃ© Viennois
 205 = "Sabaudia"
 1743 = "Cameracum"
 1877 = "Quadrigellae"
@@ -222,7 +222,7 @@
 #Aegyptus
 356 = "Berenice"
 357 = "Darnis"
-359 = "Arsinoë"
+359 = "ArsinoÃ«"
 360 = "Diocletianopolis"
 361 = "Cairus"
 363 = "Tamiathis"
@@ -345,5 +345,5 @@
 4554 = "Lucus Augusti" #Lugo
 4558 = "Auria" #Orense
 4562 = "Portus Divinus" #Mers el Kebir
-4563 = "Sala Colonia" #Salé
+4563 = "Sala Colonia" #SalÃ©
 4566 = "Ocellodurum" #Zamora

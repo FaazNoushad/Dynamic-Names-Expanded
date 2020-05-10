@@ -1,7 +1,7 @@
 5 = "Wermland"
 6 = "Schonen"
 13 = "Schleswig"
-14 = "FÃ¼nen"
+14 = "Fünen"
 29 = "Tawastland"
 37 = "Liefland"
 42 = "Ermland"
@@ -12,8 +12,8 @@
 88 = "Artesien"
 90 = "Flandern"
 91 = "Hennegau"
-93 = "LÃ¼ttich"
-94 = "LÃ¼tzelburg"
+93 = "Lüttich"
+94 = "Lützelburg"
 99 = "Geldern"
 101 = "Ligurien"
 102 = "Nizza"
@@ -22,7 +22,7 @@
 106 = "Muden"
 107 = "Welsch-Brixen"
 108 = "Welsch-Bern"
-110 = "SÃ¼dtirol"
+110 = "Südtirol"
 111 = "Friaul"
 112 = "Venedig"
 114 = "Romanei"
@@ -33,7 +33,7 @@
 123 = "Kalabrien"
 130 = "Istrien"
 131 = "Agram"
-135 = "Ã–denburg"
+135 = "Ödenburg"
 136 = "Dalmatien"
 141 = "Serbien"
 142 = "Korfu"
@@ -43,7 +43,7 @@
 148 = "Makedonien"
 151 = "Konstantinopel"
 152 = "Warasdin"
-154 = "NeuhÃ¤usel"
+154 = "Neuhäusel"
 156 = "Temesch"
 158 = "Marosch"
 160 = "Oltenien"
@@ -54,7 +54,7 @@
 205 = "Savoyen"
 206 = "Galicien"
 207 = "Asturien"
-211 = "PyrenÃ¤en"
+211 = "Pyrenäen"
 227 = "Lissabon"
 254 = "Posen"
 255 = "Gnesen"
@@ -63,7 +63,7 @@
 259 = "Sandomir"
 261 = "Halitsch"
 262 = "Krakau"
-265 = "BrÃ¼nn"
+265 = "Brünn"
 266 = "Prag"
 267 = "Pilsen"
 268 = "Moldau"
@@ -88,7 +88,7 @@
 1773 = "Achaia"
 1827 = "Raschka"
 1831 = "Travunien"
-1834 = "DÃ¶rpt"
+1834 = "Dörpt"
 1842 = "Narwa"
 1859 = "Kulm"
 1862 = "Kremun"
@@ -111,28 +111,28 @@
 2961 = "Lemberg"
 2963 = "Netze"
 2968 = "Budweis"
-2970 = "KÃ¶niggrÃ¤tz"
+2970 = "Königgrätz"
 2975 = "Cleve"
 2976 = "Umbrien"
 2982 = "Syrakus"
 2997 = "Tuchel"
-2998 = "BusÃ¤u"
+2998 = "Busäu"
 3000 = "Nisch"
 3002 = "Sarajewo"
-3003 = "EubÃ¶a"
+3003 = "Euböa"
 
 493 = "Sankt Thomas"
 502 = "Neu-Kurland"
-830 = "Neu-NÃ¼rnberg"
+830 = "Neu-Nürnberg"
 1139 = "Fort Dorothea"
-2258 = "GroÃŸ Friedrichsburg"
+2258 = "Groß Friedrichsburg"
 2808 = "Neu-Augsburg"
 4173 = "Syrmien"
-4237 = "OlmÃ¼tz"
+4237 = "Olmütz"
 
 
 12 = "Kopenhagen" #Sjaelland
-15 = "WestjÃ¼tland" #Westjylland
+15 = "Westjütland" #Westjylland
 20 = "Trondheim" #Tron
 28 = "Neuland" #Nylandia
 170 = "Brest" #Finistere
@@ -145,7 +145,7 @@
 979 = "Aleuten" #Aleut
 1015 = "Riukiuinseln" #Ryukyu
 1032 = "Kurilen" #Kurils
-1033 = "SÃ¼dsachalin" #South Sakhalin
+1033 = "Südsachalin" #South Sakhalin
 1034 = "Kamtschatka" #Kamchatka
 1085 = "Tasmanien" #Tasmania
 1141 = "Ouidah" #Whydah
@@ -156,8 +156,8 @@
 1238 = "Salomoninseln" #Solomon Islands
 1239 = "Neue Hebriden" #Vanuatu
 1242 = "Fidschi" #Fiji
-1930 = "Ã…landinseln" #Aland
-1984 = "NordjÃ¼tland" #North Jutland
+1930 = "Ålandinseln" #Aland
+1984 = "Nordjütland" #North Jutland
 1986 = "Neukaledonien" #New Caledonia
 1993 = "Marshallinseln" #Marshall Islands
 1995 = "Karolinen" #Caroline Islands
@@ -165,5 +165,5 @@
 1999 = "Kokosinseln" #Cocos Islands
 2695 = "Osttimor" #East Timor
 4020 = "Komoren" #Comoros
-4142 = "OstjÃ¼tland" #East Jutland
+4142 = "Ostjütland" #East Jutland
 4658 = "Nordsachalin" #North Sakhalin

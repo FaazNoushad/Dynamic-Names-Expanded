@@ -1,3 +1,24 @@
 ﻿l_english:
+#German
  COLONIAL_COLOMBIA_Klein_Venedig: "Klein-Venedig"
  COLONIAL_COLOMBIA_Klein_Venedig_ADJ: "Klein-Venezianisch"
+ 
+#French
+ COLONIAL_BRAZIL_France_Equinoxiale: "France Équinoxiale"
+ COLONIAL_BRAZIL_France_Equinoxiale_ADJ: "French Équinoxialean"
+ COLONIAL_BRAZIL_France_Antarctique: "France Antarctique"
+ COLONIAL_BRAZIL_France_Antarctique_ADJ: "French Antarctique"
+ COLONIAL_THE_CARRIBEAN_Saint_Domingue: "Saint-Domingue"
+ COLONIAL_THE_CARRIBEAN_Saint_Domingue_ADJ: "Saint-Dominguean"
+ COLONIAL_CANADA_Isle_Saint_Jean: "Île Saint-Jean"
+ COLONIAL_CANADA_Isle_Saint_Jean_ADJ: "Île Saint-Jean"
+ COLONIAL_CANADA_Terre_Neuve: "Terre Neuve"
+ COLONIAL_CANADA_Terre_Neuve_ADJ: "Terre Neuvean"
+ COLONIAL_CANADA_Ile_Royale: "Île-Royale"
+ COLONIAL_CANADA_Ile_Royale_ADJ: "Île-Royale"
+ COLONIAL_MEXICO_Mexique: "Mexique"
+ COLONIAL_MEXICO_Mexique_ADJ: "Mexique"
+ 
+#Spanish
+ COLONIAL_THE_CARRIBEAN_Santo_Domingo: "Santo Domingo"
+ COLONIAL_THE_CARRIBEAN_Santo_Domingo_ADJ: "Santo Domingoan"

@@ -1,4 +1,4 @@
-?28 = "Uusimaa"
+28 = "Uusimaa"
 30 = "Viipuri"
 
 
@@ -8,9 +8,9 @@
 11 = "Länsipohja" #Västerbotten
 18 = "Lappi" #Lappland
 19 = "Pohjanmaa" #Österbotten
-20 = "Tööndelagen" #Trondelag
-21 = "Helgeland" #Halogaland
-27 = "Turku" #Abo
+20 = "Tööndelagen" #Trøndelag
+21 = "Helgeland #Hålogaland
+27 = "Turku" #Åbo
 29 = "Häme" #Tawastland
 31 = "Savo" #Savolax
 32 = "Käkisalmi" #Priozersk
@@ -29,7 +29,7 @@
 315 = "Finnmarku" #Finnmark
 1776 = "Valkoinen Karjala" #White Karelia
 1777 = "Kuolan Niemimaa" #Kola
-1930 = "Ahvenanmaa" #Aland
+1930 = "Ahvenanmaa" #Åland
 1935 = "Jelgab" #Mitau
 1955 = "Kalmomäki" #Kholmogory
 1959 = "Toržok" #Torzhok

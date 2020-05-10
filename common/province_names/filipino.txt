@@ -2,4 +2,5 @@
 2698 = "Binalatongan" #Pangasinan
 2699 = "Ibalong" #Bikol 
 2700 = "Aninipay" #Panay
+4348 = "Ifugao" #Ifugao
 4352 = "Singhapala" #Cebu
