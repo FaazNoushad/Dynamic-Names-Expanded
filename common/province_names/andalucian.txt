@@ -44,7 +44,6 @@
 2990 = "Tirwal"
 
 12 = "Kubinhagen" #Copenhagen
-33 = "Sanat Bitarsburg" #Neva
 97 = "Amstardam" #Amsterdam
 104 = "Milanu" #Milan
 131 = "Zagrib" #Zagreb

@@ -1,0 +1,7 @@
+101 = "Gènova" #Genoa
+104 = "Milanu" #Milan
+108 = "Berona" #Verona
+112 = "Venetzia" #Venice
+116 = "Frorentzia" #Florence
+121 = "Nàpoli" #Naples
+2986 = "Casteddu" #Cagliari

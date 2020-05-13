@@ -92,6 +92,7 @@
 2469 = "Mazagão"
 2999 = "Ormuz" 
 
+227 = "Lisboa" #Lisbon
 233 = "Cornualha" #Cornwall
 235 = "Câncio" #Kent
 236 = "Londres" #London
@@ -102,6 +103,7 @@
 246 = "Nortúmbria" #Northumberland
 247 = "Cúmbria" #Cumbria
 248 = "Edimburgo" #Lothian/Edinburgh
+272 = "Vilna" #Vilnius
 337 = "Orã" #Oran
 339 = "Cabília" #Kabylia
 340 = "Constantina" #Constantine

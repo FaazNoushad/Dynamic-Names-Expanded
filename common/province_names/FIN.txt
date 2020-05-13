@@ -21,6 +21,7 @@
 37 = "Liivinmaa" #Liefland
 38 = "Riika" #Riga
 39 = "Kuldiiga" #Goldingen
+272 = "Vilna" #Vilnius
 273 = "Lattgallia" #Lettgallen
 274 = "Pikhova" #Pskov
 311 = "Holm" #Kholm

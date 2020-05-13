@@ -297,6 +297,7 @@
 2753 = "Narbonnais"
 3003 = "Negroponte"
 
+272 = "Vilna" #Vilnius
 334 = "Tanger" #Tangiers
 343 = "Fès" #Fez
 344 = "Marrakech" #Marrakesh

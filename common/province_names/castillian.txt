@@ -222,6 +222,7 @@
 501 = "Barbado"
 
 206 = "La Coruña" #A Coruña
+272 = "Vilna" #Vilnius
 334 = "Tánger" #Tangiers
 337 = "Orán" #Oran
 339 = "Cabilia" #Kabylia
