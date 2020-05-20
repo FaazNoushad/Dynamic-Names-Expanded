@@ -53,6 +53,18 @@
  RAWAL: "Rawal"
  MAHARAWAL: "Maharawal"
 
+#Korea
+ IMGEUM: "Imgeum"
+ HWANGJAE: "Hwangjae"
+ WANGHU: "Wanghu"
+ HWANGHU: "Hwanghu"
+ YEOJAE: "Yeojae"
+ GUKSEO: "Gukseo"
+ SAEJA: "Saeja"
+ TAEJA: "Taeja"
+ SAENYEO: "Saenyeo"
+ TAENYEO: "Taenyeo"
+ 
 #Manipur
  NINGTHEM: "Ningthem"
  GREATNINGTHEM: "Great Ningthem"

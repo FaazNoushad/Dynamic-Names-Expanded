@@ -1,2 +1,2 @@
-651 = "Jolo"
-4354 = "Samboangan"
+651 = "Jolo" #Sulu
+4354 = "Samboangan" #Zamboanga

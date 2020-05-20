@@ -9,7 +9,7 @@
 125 = "Balarm" #Palermo
 131 = "Zaqreb" #Zagreb
 133 = "Lince" #Linz
-134 = Vyana" #Vienna
+134 = "Vyana" #Vienna
 137 = "Raquza" #Ragusa
 143 = "Avlonya" #Vlorë
 159 = "Silistre" #Silistria
@@ -73,7 +73,7 @@
 473 = "Samar" #Samara
 684 = "Xanfu" #Hangzhou
 710 = "Xotan" #Hotan
-712  "Agsu" #Aksu
+712 = "Agsu" #Aksu
 713 = "Besbaliq" #Bechbaliq
 715 = "Ürümçi" #Urumqi
 739 = "Qasgar" #Kashgar
@@ -126,7 +126,7 @@
 4174 = "Durac" #Durrës
 4175 = "Les" #Lezhë
 4207 = "Turfan" #Turpan
-4210 = Yeni Hasar" #Yangi Hissar
+4210 = "Yeni Hasar" #Yangi Hissar
 4294 = "Süleymaniya" #Sulimaniyeh 
 4304 = "Xoy" #Khoy
 4320 = "Circe" #Girga

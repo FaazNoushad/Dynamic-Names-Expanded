@@ -1,101 +1,99 @@
 yoruba_titles = {
     rank = {
-         1 = CHIEFDOM
-         2 = KINGDOM
-         3 = EMPIRE
+		1 = CHIEFDOM
+		2 = KINGDOM
+		3 = EMPIRE
     }
     
     ruler_male = {
-        1 = OLU
-        2 = OBA
-        3 = GREAT_OBA
+		1 = OLU
+		2 = OBA
+		3 = GREAT_OBA
     }
     
     ruler_female = {
-        1 = OBA
-        2 = OBA
-        3 = GREAT_OBA
+		1 = OBA
+		2 = OBA
+		3 = GREAT_OBA
     }
     
     consort_female = {
-        1 = IYALOYE
-        2 = OLORI
-        3 = AYABA
+		1 = IYALOYE
+		2 = OLORI
+		3 = AYABA
     }
     
     heir_male = {
-        1 = OMOBA
-        2 = OMOBA
-        3 = OMOBA
+		1 = OMOBA
+		2 = OMOBA
+		3 = OMOBA
     }
     
     heir_female = {
-        1 = OMOBA
-        2 = OMOBA
-        3 = OMOBA
+		1 = OMOBA
+		2 = OMOBA
+		3 = OMOBA
     }
     
     trigger = {
-        culture = yoruba
+        primary_culture = yoruba
         NOT = { government = republic }
     }
 }
 
 oyo_exclusive_titles = {
     rank = {
-         1 = CHIEFDOM
-         2 = KINGDOM
-         3 = EMPIRE
+		1 = CHIEFDOM
+		2 = KINGDOM
+		3 = EMPIRE
     }
     
     ruler_male = {
-        1 = OLU
-        2 = ALAAFIN
-        3 = ALAAFIN
+	1 = OLU
+		2 = ALAAFIN
+		3 = ALAAFIN
     }
     
     ruler_female = {
-        1 = OBA
-        2 = OBA
-        3 = GREAT_OBA
+		1 = OBA
+		2 = OBA
+		3 = GREAT_OBA
     }
     
     consort_female = {
-        1 = IYALOYE
-        2 = OLORI
-        3 = AYABA
+		1 = IYALOYE
+		2 = OLORI
+		3 = AYABA
     }
     
     heir_male = {
-        1 = OMOBA
-        2 = OMOBA
-        3 = OMOBA
+		1 = OMOBA
+		2 = OMOBA
+		3 = OMOBA
     }
     
     heir_female = {
-        1 = OMOBA
-        2 = OMOBA
-        3 = OMOBA
+		1 = OMOBA
+		2 = OMOBA
+		3 = OMOBA
     }
     
     trigger = {
         tag = OYO
-        culture = yoruba
-        NOT = { government = republic }
     }
 }
 
 mutapa_titles = {
     rank = {
-         1 = CHIEFDOM
-         2 = KINGDOM
-         3 = EMPIRE
+		1 = CHIEFDOM
+		2 = KINGDOM
+		3 = EMPIRE
     }
     
     ruler_male = {
-        1 = MWENEMUTAPA
-        2 = MWENEMUTAPA
-        3 = MWENEMUTAPA
+		1 = MWENEMUTAPA
+		2 = MWENEMUTAPA
+		3 = MWENEMUTAPA
     }   
 
     trigger = {
@@ -106,19 +104,19 @@ mutapa_titles = {
 
 fon_titles = {
     rank = {
-         1 = CHIEFDOM
-         2 = KINGDOM
-         3 = EMPIRE
+		1 = CHIEFDOM
+		2 = KINGDOM
+		3 = EMPIRE
     }
     
     ruler_male = {
-        1 = FON_TITLE
-        2 = FON_TITLE
-        3 = FON_TITLE
+		1 = FON_TITLE
+		2 = FON_TITLE
+		3 = FON_TITLE
     }   
 
     trigger = {
-        culture = fon
-        NOT = { government = republic }
+		primary_culture = fon
+		NOT = { government = republic }
     }
 }

@@ -1,0 +1,5 @@
+329 = "Sebastia" #Sivas
+330 = "Trapizon" #Trebizond
+331 = "Karin" #Erzurum
+418 = "Tigranakert" #Diyarbakir
+2305 = "Yerznka" #Erzincan

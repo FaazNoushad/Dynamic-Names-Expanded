@@ -136,6 +136,7 @@
 20 = "Trondheim" #Tron
 28 = "Neuland" #Nylandia
 170 = "Brest" #Finistere
+272 = "Wilna" #Vilnius
 361 = "Kairo" #Cairo
 362 = "Rosette" #Rosetta
 363 = "Damiette" #Damietta
