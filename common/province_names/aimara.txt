@@ -1,0 +1,3 @@
+808 = "Qusqu" #Cuzco
+809 = "Ishma" #Lima
+819 = "Wayakil" #Guayakil

@@ -1,0 +1,25 @@
+czech_elector_titles = {
+    rank = {
+        1 = DUCHY
+        2 = KINGDOM
+        3 = EMPIRE
+    }
+
+    ruler_male = {
+        1 = KURFIRT
+        2 = KURFIRT
+        3 = KURFIRT
+    }
+
+    ruler_female = {
+        1 = KNEZNA
+        2 = KRALOVNA
+        3 = EMPRESS
+    }
+
+       trigger = {
+        primary_culture = czech
+        is_elector = yes
+		government = monarchy
+    }
+}

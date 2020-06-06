@@ -1,7 +1,31 @@
 ﻿l_english:
+#Andalusia
+ ADU: "Al-Andalus"
+ ADU_ADJ: "Andalusian"
+ 
+#Apache
+ APA: "Diné"
+ APA_ADJ: "Dinéan"
+ 
+#Arapaho
+ ARP: "Hinono'eino"
+ ARP_ADJ: 'Hinono'eino"
+ 
+#Assiniboine
+ ASI: "Nakota"
+ ASI_ADJ: "Nakotan"
+
 #Assam
  ASS: "Ahom"
  ASS_ADJ: "Ahom"
+
+#Blackfoot
+ BLA: "Niisitapi"
+ BLA_ADJ: "Niisitapian"
+ 
+#Chocktaw
+ CHO: "Chahta"
+ CHO_ADJ: "Chahtan"
  
 #Chernigov
  CHR: "Chernihiv"
@@ -11,10 +35,30 @@
  CHT: "Ch'orti'"
  CHT_ADJ: "Ch'orti'"
  
+#Cheyenne
+ CHY: "Tsétsêhéstâhese"
+ CHY_ADJ: "Tsétsêhéstâhese"
+ 
+#Fox
+ FOX: "Meskwaki"
+ FOX_ADK: "Meskwakian"
+ 
+#Granada
+ GRA: "Gharnatah"
+ GRA_ADJ: "Gharnatan"
+ 
+#Huron
+ HUR: "Wendat"
+ HUR_ADJ: "Wendat"
+ 
 #Iroquois
  IRO: "Haudenosaunee"
  IRO_ADJ: "Haudenosaunee"
 
+#Lan Xang
+ LXA: "Lan Xang Hom Khao"
+ LXA_ADJ: "Lan Xang Hom Khao"
+ 
 #Kham
  KAM: "Derge"
  KAM_ADJ: "Derge"
@@ -43,9 +87,21 @@
  MKS: "Gowa"
  MKS_ADJ: "Gowan"
  
+#Osage
+ OSA: "Wazhazhe"
+ OSA_ADJ: "Wazhazhean"
+ 
+#Palatinate
+ PAL: "Pfalzgraviate"
+ PAL_ADJ: "Palatine"
+ 
 #Pangasinan
  PGS: "Caboloan"
  PGS_ADJ: "Caboloan"
+ 
+#Sioux
+ SIO: "Dakota"
+ SIO_ADJ: "Dakotan"
  
 #Tarascan
  TAR: "Purepecha"
@@ -58,11 +114,7 @@
 #Tokugawa
  TKG: "Matsudaira"
  TKG_ADJ: "Matsudaira"
- 
-#U
- PHA: "Phagmodrupa"
- PHA_ADJ: "Phagmodrupan"
- 
+
 #Xalisco
  XAL: "Xalixco"
  XAL_ADJ: "Xalixcan"

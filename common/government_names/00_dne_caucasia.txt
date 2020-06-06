@@ -97,3 +97,28 @@ gazikumukh_titles = {
 		government = monarchy
 	}
 }
+
+georgian_monarchy = {
+	rank = {
+		1 = ATABEGATE
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = ATABEG
+		2 = KING
+		3 = MEPE_MEPETA
+	}
+
+	ruler_female = {
+		1 = ATABEG_fem
+		2 = QUEEN
+		3 = EMPRESS
+	}
+	
+	trigger = {
+		government = monarchy
+		primary_culture = georgian
+	}
+}

@@ -1,0 +1,18 @@
+mutapa_titles = {
+    rank = {
+		1 = CHIEFDOM
+		2 = KINGDOM
+		3 = EMPIRE
+    }
+    
+    ruler_male = {
+		1 = MWENEMUTAPA
+		2 = MWENEMUTAPA
+		3 = MWENEMUTAPA
+    }   
+
+    trigger = {
+        tag = ZIM
+        NOT = { government = republic }
+    }
+}
