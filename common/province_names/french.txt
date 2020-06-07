@@ -314,6 +314,7 @@
 536 = "Madure" #Madura
 537 = "Coulan" #Venad
 572 = "Colombo" #Kotte
+614 = "Vientiane" #Viengchan
 1231 = "Assouan" #Aswan
 1947 = "Gingi" #Gingee
 2084 = "Yanam" #Puducherry

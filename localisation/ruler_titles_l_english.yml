@@ -1,4 +1,10 @@
-﻿l_english: 
+﻿l_english:
+#Andalusian
+ TAIFA: "Taifa"
+ 
+#Ajuuraan
+ INA_BOQOR: "Ina Boqor"
+ 
 #Assam
  PHA_TITLE: "Pha"
  SWARGADEO: "Swargadeo"
@@ -6,14 +12,41 @@
  BORKUNWORI: "Bor Kunwori"
  CHARINGRAJA: "Charing Raja"
  
+#Burmese
+ MIN_TITLE: "Min"
+ MAHE: "Mahe"
+ DEVI: "Devi"
+ EINSHAY_MINTHA: "Einshay Mintha"
+ TABINDAING_MINTHAMI: "Tabindaing Minthami"
+ 
 #Calicut
  SAMOOTHIRI: "Samoothiri"
  GREATSAMOOTHIRI: "Great Samoothiri"
 
+#Czech
+ KURFIRT: "Kurfirt"
+ KNEZNA: "Knezna"
+ KRALOVNA: "Kralovna"
+ 
+#Ethiopian
+ ABETO_HOY: "Abeto Hoy"
+ 
 #Filipino Rajahnates
  DAYANG: "Dayang"
  HARA: "Hara"
  BAI: "Bai" 
+
+#Finland
+ SUURIRUHTINAS: "Suuriruhtinas"
+ KUNINGAS: "Kuningas"
+ KEISARI: "Keisari"
+ SUURIRUHTINASKUNTA: "Suuriruhtinaskunta"
+ KUNINGATAR: "Kuningatar"
+ KEISARINA: "Keisarinna"
+ PRINSSI: "Prinssi"
+ RUHTINAS: "Ruhtinas"
+ PRINSESSA: "Prinsessa"
+ RUHTINATAR: "Ruhtinatar"
  
 #Fon
  FON_TITLE: "Fon"
@@ -23,6 +56,19 @@
  GREATSHAMKHALATE: "Great Shamkhalate"
  SHAMKHAL: "Shamkhal"
  GREATSHAMKHAL:  "Great Shamkhal"
+ 
+#German Electors
+ KURFURSTENTUM: "Kurfürstentum"
+ KURFURST: "Kurfürst"
+ KURFURSTIN: "Kurfürstin"
+ KURPRINZ: "Kurprinz"
+ KURPRINZESSIN: "Kurprinzessin"
+ KURADMINISTRATOR: "Kuradministrator"
+ KURADMINISTRATORIN: "Kuradministratorin"
+ 
+#Georgian
+ ATABEGATE: "Atabegate"
+ MEPE_MEPETA: "Mepe-Mepeta"
  
 #Hadoti
  RAO: "Rao"
@@ -73,12 +119,14 @@
  WANGOLNINGTHOU: "Wangol Ningthou"
  SHIJA: "Shija"
  
- #Mewat
+#Marathi
+ DESHMUKH: "Deshmukh"
+ 
+#Mewat
  WALIEMEWAT: "Wali-e-Mewat"
  SHAHEMEWAT: "Shah-e-Mewat"
  PADISHAHEMEWAT: "Padishah-e-Mewat"
  
-
 #Mutapa
  MWENEMUTAPA: "Mwenemutapa" 
 
@@ -89,17 +137,30 @@
  MATHA: "Matha"
  RAJAMATHA: "Rajamatha"
 
+#Nepali
+ RAJADHIRAJA: "Rajadhiraja"
+ MAHARAJADHIRAJA: "Maharajadhiraja"
+ 
+#Palatinate
+ PFALZGRAFSCHAFT: "Pfalzgrafschaft"
+ PFALZGRAF: "Pfalzgraf"
  
 #Sadiya
  GAYAPAL: "Gayapal"
  GAURINARAYAN: "Gaurinarayan"
  CHATRADHARI: "Chatra-dhari"
  
- #Samstkhe
- ATABEGATE: "Atabegate"
- 
 #Shirvan
  SHIRVANSHAH: "Shirvanshah"
+ 
+#Somali
+ BOQORTOOYO: "Boqortooyo"
+ SULDAAN: "Suldaan"
+ UGHAZ: "Ughaz"
+ 
+#Southeastasian Hindu
+ DEVARAJA: "Devaraja"
+ DEVARANI: "Devarani"
  
 #Tlaxcala
  TEUCTLI: "Teuctli"

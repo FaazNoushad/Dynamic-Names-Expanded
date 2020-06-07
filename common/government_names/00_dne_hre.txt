@@ -1,0 +1,70 @@
+non_elector_palatinate_titles = {
+    rank = {
+        1 = PFALZGRAFSCHAFT
+        2 = PFALZGRAFSCHAFT
+        3 = PFALZGRAFSCHAFT
+    }
+
+    ruler_male = {
+        1 = PFALZGRAF
+        2 = PFALZGRAF
+        3 = PFALZGRAF
+    }
+    
+    trigger = {
+		tag = PAL
+        culture_group = germanic
+        is_elector = no
+		government = monarchy
+    }
+}
+
+electorate_titles = {
+    rank = {
+        1 = KURFURSTENTUM
+        2 = KURFURSTENTUM
+        3 = KURFURSTENTUM
+    }
+
+    ruler_male = {
+        1 = KURFURST
+        2 = KURFURST
+        3 = KURFURST
+    }
+
+    ruler_female = {
+        1 = KURFURSTIN
+        2 = KURFURSTIN
+        3 = KURFURSTIN
+    }
+	
+	consort_male = {
+		1 = KURADMINISTRATOR
+		2 = KURADMINISTRATOR
+		3 = KURADMINISTRATOR
+	}
+
+	consort_female = {
+		1 = KURADMINISTRATORIN
+		2 = KURADMINISTRATORIN
+		3 = KURADMINISTRATORIN
+	}
+	
+    heir_male = {
+        1 = KURPRINZ
+        2 = KURPRINZ
+        3 = KURPRINZ
+    }
+    
+    heir_female = {
+        1 = KURPRINZESSIN
+        2 = KURPRINZESSIN
+        3 = KURPRINZESSIN
+    }
+    
+    trigger = {
+        culture_group = germanic
+        is_elector = yes
+		government = monarchy
+    }
+}

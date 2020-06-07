@@ -1,0 +1,36 @@
+finnish_titles = {
+    rank = {
+        1 = GRAND_DUCHY
+        2 = KINGDOM
+        3 = EMPIRE
+    }
+
+    ruler_male = {
+        1 = SUURIRUHTINAS
+        2 = KUNINGAS
+        3 = KEISARI
+    }
+
+    ruler_female = {
+        1 = SUURIRUHTINASKUNTA
+        2 = KUNINGATAR
+        3 = KEISARINNA
+    }
+
+    heir_male = {
+        1 = PRINSSI
+        2 = RUHTINAS
+        3 = RUHTINAS
+    }
+    
+    heir_female = {
+        1 = PRINSESSA
+        2 = RUHTINATAR
+        3 = RUHTINATAR
+    }
+    
+    trigger = {
+        primary_culture = finnish
+		government = monarchy
+    }
+}

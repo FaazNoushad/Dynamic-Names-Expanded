@@ -49,7 +49,7 @@ oyo_exclusive_titles = {
     }
     
     ruler_male = {
-	1 = OLU
+		1 = OLU
 		2 = ALAAFIN
 		3 = ALAAFIN
     }
@@ -80,25 +80,6 @@ oyo_exclusive_titles = {
     
     trigger = {
         tag = OYO
-    }
-}
-
-mutapa_titles = {
-    rank = {
-		1 = CHIEFDOM
-		2 = KINGDOM
-		3 = EMPIRE
-    }
-    
-    ruler_male = {
-		1 = MWENEMUTAPA
-		2 = MWENEMUTAPA
-		3 = MWENEMUTAPA
-    }   
-
-    trigger = {
-        tag = ZIM
-        NOT = { government = republic }
     }
 }
 

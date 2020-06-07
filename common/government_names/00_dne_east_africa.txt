@@ -1,0 +1,240 @@
+ethiopian_monarchies = {
+	rank = {
+		1 = PRINCEDOM
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = RAS_title
+		2 = NEGUS
+		3 = NEGUSA_NEGAST
+	}
+
+	ruler_female = {
+		1 = LE_ELT
+		2 = NIGIST
+		3 = NIGISTE_NIGIST
+	}
+	
+	consort_male = {
+		1 = JANHOY
+		2 = JANHOY
+		3 = JANHOY
+	}
+	
+	consort_female = {
+		1 = ITEGE
+		2 = ITEGE
+		3 = ITEGE
+	}
+	
+	heir_male = {
+		1 = ABETO
+		2 = ABETO
+		3 = ABETO_HOY
+	}
+	
+	heir_female = {
+		1 = LE_ELT
+		2 = LE_ELT
+		3 = LE_ELT
+	}
+
+	trigger = {
+		government = monarchy
+		religion_group = christian
+		OR = {
+			primary_culture = amhara
+			primary_culture = sidamo
+			primary_culture = tigray
+		}
+	}
+}
+
+ajuuraan_titles = {
+    rank = {
+		1 = EMIRATE
+		2 = SULTANATE
+		3 = EMPIRE
+    }
+    
+    ruler_male = {
+		1 = SULDAAN
+		2 = IMAM
+		3 = HIGH_IMAM
+    }
+    
+    ruler_female = {
+		1 = BOQORAD
+		2 = BOQORAD
+		3 = BOQORAD
+    }
+	
+    consort_female = {
+		1 = BOQORAD
+		2 = BOQORAD
+		3 = BOQORAD
+    }
+    
+    heir_male = {
+		1 = INA_BOQOR
+		2 = INA_BOQOR
+		3 = INA_BOQOR
+    }
+    
+    heir_female = {
+		1 = AMIRAD
+		2 = AMIRAD
+		3 = AMIRAD
+    }
+    
+    trigger = {
+        tag = AJU
+		religion_group = muslim
+    }
+}
+
+adal_titles = {
+    rank = {
+		1 = EMIRATE
+		2 = SULTANATE
+		3 = EMPIRE
+    }
+    
+    ruler_male = {
+		1 = SULDAAN
+		2 = EMIR
+		3 = GREAT_EMIR
+    }
+    
+    ruler_female = {
+		1 = BOQORAD
+		2 = BOQORAD
+		3 = BOQORAD
+    }
+	
+    consort_female = {
+		1 = BOQORAD
+		2 = BOQORAD
+		3 = BOQORAD
+    }
+    
+    heir_male = {
+		1 = AMIR
+		2 = AMIR
+		3 = AMIR
+    }
+    
+    heir_female = {
+		1 = AMIRAD
+		2 = AMIRAD
+		3 = AMIRAD
+    }
+    
+    trigger = {
+        OR = {
+			tag = ADA
+			tag = HAR
+		}
+		religion_group = muslim
+    }
+}
+
+north_somali_titles = {
+	rank = {
+		1 = BOQORTOOYO
+		2 = BOQORTOOYO
+		3 = BOQORTOOYO
+	}
+
+	ruler_male = {
+		1 = GERAD
+		2 = UGHAZ
+		3 = BOQOR
+	}
+
+	ruler_female = {
+		1 = BOQORAD
+		2 = BOQORAD
+		3 = BOQORAD
+	}
+
+	consort_male = {
+		1 = BOQOR
+		2 = BOQOR
+		3 = BOQOR
+	}
+
+	consort_female = {
+		1 = BOQORAD
+		2 = BOQORAD
+		3 = BOQORAD
+	}
+	
+	heir_male = {
+		1 = AMIR
+		2 = AMIR
+		3 = AMIR
+	}
+
+	heir_female = {
+		1 = AMIRAD
+		2 = AMIRAD
+		3 = AMIRAD
+	}
+	
+	trigger = {
+		government = monarchy
+		primary_culture = somali
+	}
+}
+
+somali_monarchy = {
+	rank = {
+		1 = BOQORTOOYO
+		2 = BOQORTOOYO
+		3 = BOQORTOOYO
+	}
+
+	ruler_male = {
+		1 = GERAD
+		2 = SULDAAN
+		3 = BOQOR
+	}
+
+	ruler_female = {
+		1 = BOQORAD
+		2 = BOQORAD
+		3 = BOQORAD
+	}
+
+	consort_male = {
+		1 = BOQOR
+		2 = BOQOR
+		3 = BOQOR
+	}
+
+	consort_female = {
+		1 = BOQORAD
+		2 = BOQORAD
+		3 = BOQORAD
+	}
+	
+	heir_male = {
+		1 = AMIR
+		2 = AMIR
+		3 = AMIR
+	}
+
+	heir_female = {
+		1 = AMIRAD
+		2 = AMIRAD
+		3 = AMIRAD
+	}
+	
+	trigger = {
+		government = monarchy
+		primary_culture = somali
+	}
+}
